@@ -2,7 +2,7 @@
     "dir": "ltr",
     "lang": "pt",
     "name": "WebLista",
-    "scope": "/",
+    "scope": "https://www.weblista.site/",
     "display": "standalone",
     "start_url": "https://www.weblista.site/",
     "short_name": "WebLista",
